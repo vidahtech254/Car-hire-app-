@@ -1,2 +1,2 @@
 # Car-hire-app-
-a car hire application coded i C# and visual studio
+a car hire application coded in C# and visual studio
